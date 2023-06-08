@@ -1,18 +1,30 @@
 body {
-    background-color: black;
-    background-size: 500px;
-
-
+    background-image: url(christian-wiediger-kf_korybd1g-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1950px 1100px;
+     ;
+    
 }
-
-
-
-
-
 
 .glava {
     color: red;
+    font-size: 50px;
+    font-style: italic;
+
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.glava2 {
+    margin-top: 1500px;
+}
+
+.paragraph {
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
 
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 25px;
 }
